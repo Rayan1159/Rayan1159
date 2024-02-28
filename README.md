@@ -2,6 +2,9 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+![Rayns's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayan1159&show_icons=true&theme=radical)
+
+
 ---
 
 ### :woman_technologist: About Me :
