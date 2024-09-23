@@ -1,1 +1,1 @@
-i wrote code ⌨️
+i write code ⌨️
